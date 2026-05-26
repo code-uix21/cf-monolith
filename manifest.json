@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "CF Monolith",
+  "version": "1.0",
+  "description": "Enhances your Codeforces experience with dashboard analytics, competitive stats comparison, dark mode, and many more.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://codeforces.com/*",
+        "https://www.codeforces.com/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}
