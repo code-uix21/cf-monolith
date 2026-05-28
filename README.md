@@ -6,7 +6,7 @@
 
 **CF Monolith** is a unified, lightweight training workspace and analytics ecosystem designed specifically for competitive programmers on the Codeforces platform. Engineered natively on Chrome's modern **Manifest V3** framework, it consolidates a suite of advanced productivity tools into a single, highly optimized interface overlay—eliminating browser tab clutter and streamlining training workflows.
 
-[Install from the Chrome Web Store] - (link will be added soon)
+[Install from the Chrome Web Store] - https://chromewebstore.google.com/detail/codeforces-monolith-cf-mo/alailmojcgnjfgclagniegeeaeecndni
 
 ##  Core Features
 
